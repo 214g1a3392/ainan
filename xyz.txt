@@ -1,1 +1,2 @@
-ainan
+ git config --global user.email "shaistaainans@gmai.com"
+ git config --global user.name "Shaista Ainan"
